@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts05.13.2026.zip" sha1="e6b5dc5d0775f4e1d60ff9eef9c505cecb218560" type="script" releaseDate="20260513">
+      <package fileName="SetiAstroScripts05.13.2026_1.zip" sha1="f0a988931d1a599777dfb34b47b4f185ac7167a6" type="script" releaseDate="20260513">
          <title>
         Seti Astro Script Updates for 1.9.4
       </title>
          <description>
             <p>
-Port of Seti Astro Scripts for PI Version 1.9.4.
+Port of Seti Astro Scripts for PI Version 1.9.4.  Blind Solver will now launch Image Solver!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-05-13T14:40:03.321Z" encoding="Base64">yau50T3sL4BIlslIwWG5x6e3MGEmsrqZ566nRdPFobYs3A3xahPcpbJw3dE3ybYfaRjXfNJUM0MPJqh3I9T8Aw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-05-13T19:43:12.439Z" encoding="Base64">FRxpJ+o2U8uOE8L9FkrQWPRNdhA8ruvOgWGGzNdIfc7QQP/H9PwJVNNO6nkDNPl7gDg4Slp2o44kPlz7n720Ag==</Signature>
