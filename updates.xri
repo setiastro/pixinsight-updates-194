@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts05.14.2026.zip" sha1="60415c52ee6a2610eb112e2defbfff2a70e909f4" type="script" releaseDate="20260514">
+      <package fileName="SetiAstroScripts05.17.2026.zip" sha1="8a0eaed4bbc18f4c7102ade867a79c96b396fc24" type="script" releaseDate="20260517">
          <title>
         Seti Astro Script Updates for 1.9.4
       </title>
          <description>
             <p>
-Port of Seti Astro Scripts for PI Version 1.9.4.  Ported WIMI and HaloBGon
+Updates to Blind Solver 2000 to deal with various astrometry.net issues that can arise.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-05-14T13:50:39.982Z" encoding="Base64">eT3qZgheW0UoEMdpTNI3DKJSy0mGjr2bCcBmkl94IcdAGEG/3LPakTiBgoDhAWtH683VWq2fTPYroQcIPy7MDg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-05-17T12:38:17.134Z" encoding="Base64">beLy7tKkO+Or+6cJrY46rooAfs4ioLDqjQUNBA7e+An1riCdSmcFjsZ7AmpEC8UZe3AE7dK9N8tDPzv8bnSkAg==</Signature>
