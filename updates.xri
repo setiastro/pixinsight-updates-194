@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts05.17.2026.zip" sha1="8a0eaed4bbc18f4c7102ade867a79c96b396fc24" type="script" releaseDate="20260517">
+      <package fileName="SetiAstroScripts05.18.2026.zip" sha1="1a7392c14907dfdae626f85c497a984febe9704e" type="script" releaseDate="20260518">
          <title>
         Seti Astro Script Updates for 1.9.4
       </title>
          <description>
             <p>
-Updates to Blind Solver 2000 to deal with various astrometry.net issues that can arise.
+Updates to Blemish Blaster to fix memory management issues.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-05-17T12:38:17.134Z" encoding="Base64">beLy7tKkO+Or+6cJrY46rooAfs4ioLDqjQUNBA7e+An1riCdSmcFjsZ7AmpEC8UZe3AE7dK9N8tDPzv8bnSkAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-05-18T16:43:55.530Z" encoding="Base64">ATH3Zqk1urZJPWexfgcqWmpum++2IUaMjGI3t53gNVaeV426uOOpvet0zyCrBsOh/ag81WPQjksVfpFNZP1zCw==</Signature>
