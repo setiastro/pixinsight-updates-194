@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts05.18.2026.zip" sha1="1a7392c14907dfdae626f85c497a984febe9704e" type="script" releaseDate="20260518">
+      <package fileName="SetiAstroScripts05.21.2026.zip" sha1="7c2d16f50a98178d6033ae395356b55f48abcc06" type="script" releaseDate="20260521">
          <title>
         Seti Astro Script Updates for 1.9.4
       </title>
          <description>
             <p>
-Updates to Blemish Blaster to fix memory management issues.
+Ported AstroMarkSignatureAdder
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-05-18T16:43:55.530Z" encoding="Base64">ATH3Zqk1urZJPWexfgcqWmpum++2IUaMjGI3t53gNVaeV426uOOpvet0zyCrBsOh/ag81WPQjksVfpFNZP1zCw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-05-21T17:56:13.656Z" encoding="Base64">UOzDPbRt3ZX6EoBD6mB4ZViXylgAHQU7j+PSEJPmwmYxsFh1wYAbtYjB7+4nCxOV7rvfpilVGePJoeZZdwc1DA==</Signature>
