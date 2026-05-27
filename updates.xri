@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts05.21.2026.zip" sha1="7c2d16f50a98178d6033ae395356b55f48abcc06" type="script" releaseDate="20260521">
+      <package fileName="SetiAstroScripts05.27.2026.zip" sha1="deadfd5ecde86f03318d867d348f37b1726d9495" type="script" releaseDate="20260527">
          <title>
-        Seti Astro Script Updates for 1.9.4
+        Cosmic Clarity - SASpro - Correct Only Mode
       </title>
          <description>
             <p>
-Ported AstroMarkSignatureAdder
+Requires SASpro version 1.16.11 or newer.  Correct Only and Correct+Sharpen will correct for common stellar aberrations caused by most optical systems.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-05-21T17:56:13.656Z" encoding="Base64">UOzDPbRt3ZX6EoBD6mB4ZViXylgAHQU7j+PSEJPmwmYxsFh1wYAbtYjB7+4nCxOV7rvfpilVGePJoeZZdwc1DA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-05-27T14:02:51.378Z" encoding="Base64">vlV6gMdWMnNXj1s6dDfjnz/v4kHsKarekL8aT8aDJ9gbCXj/fSd/qglRXnglNaTCxXoVsp+Eug7/MwEHM0KyDA==</Signature>
