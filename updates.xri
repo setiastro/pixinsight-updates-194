@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts05.27.2026_1.zip" sha1="279dd2539337e3e5191c206587e6814d1e8b819a" type="script" releaseDate="20260527">
+      <package fileName="SetiAstroScripts05.30.2026.zip" sha1="e88221513fcafd90868a222b44129d86a20c9d63" type="script" releaseDate="20260530">
          <title>
-        Cosmic Clarity - SASpro - Correct Only Mode
+        AstroDepth Image Enhancer Port
       </title>
          <description>
             <p>
-Requires SASpro version 1.16.11 or newer.  Correct Only and Correct+Sharpen will correct for common stellar aberrations caused by most optical systems. Update to CLI call.
+Port to 1.9.4 for AstroDepth Image Enhancer
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-05-27T18:47:30.239Z" encoding="Base64">DqFAmthXdE5Lbz40iQknCg8NDSBQ7scXgMIwkMp+o84JrW8Pg2L5EBHVcOOnRGlqhDSzDyFNIn1sv9jUL2y3Dg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-05-30T15:10:44.114Z" encoding="Base64">17uZupEkT5WXL141L3CBbaQrJs7AVYe6VXEo11+BMK8Co00LzO2mtyfxVSV4b5rqR+v0NP/0Yyv8z4sMk2iaDw==</Signature>
