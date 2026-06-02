@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts05.30.2026.zip" sha1="e88221513fcafd90868a222b44129d86a20c9d63" type="script" releaseDate="20260530">
+      <package fileName="SetiAstroScripts06.02.2026.zip" sha1="5d897f83f43145c0194b1c6e5a1d8a90d615d25b" type="script" releaseDate="20260602">
          <title>
-        AstroDepth Image Enhancer Port
+        Save All Views Port and Upgrade
       </title>
          <description>
             <p>
-Port to 1.9.4 for AstroDepth Image Enhancer
+New Repository link as well, https://updates.setiastro.com  Port to 1.9.4 and upgrade for Save All Views.  
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-05-30T15:10:44.114Z" encoding="Base64">17uZupEkT5WXL141L3CBbaQrJs7AVYe6VXEo11+BMK8Co00LzO2mtyfxVSV4b5rqR+v0NP/0Yyv8z4sMk2iaDw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-06-02T19:10:16.774Z" encoding="Base64">m6RaEN5GVEn+3x9XENU7z1nKm6lMBbYt7qS9BH/3wjZ/p2h/xVvE4wDH0ShNm6QcEjWf0Xc3J9up3hMD4PtZCw==</Signature>
