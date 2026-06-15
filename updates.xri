@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts06.02.2026.zip" sha1="5d897f83f43145c0194b1c6e5a1d8a90d615d25b" type="script" releaseDate="20260602">
+      <package fileName="SetiAstroScripts06.15.2026.zip" sha1="043bf19bd36b7ca8b4093c7997687106fdc844bd" type="script" releaseDate="20260615">
          <title>
-        Save All Views Port and Upgrade
+        FAME v1.6
       </title>
          <description>
             <p>
-New Repository link as well, https://updates.setiastro.com  Port to 1.9.4 and upgrade for Save All Views.  
+New Repository link, https://updates.setiastro.com  FAME memory leak bug fix
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-06-02T19:10:16.774Z" encoding="Base64">m6RaEN5GVEn+3x9XENU7z1nKm6lMBbYt7qS9BH/3wjZ/p2h/xVvE4wDH0ShNm6QcEjWf0Xc3J9up3hMD4PtZCw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-06-15T16:29:15.762Z" encoding="Base64">LDSqrqR+AEPktgjE4p791Z3vKAK6decu4uvWO0jWIxEJd2Rr3WZYKkgmCIO1iJ5d5GmpZIOXmF0VKLfdQDHiBw==</Signature>
