@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts06.15.2026.zip" sha1="043bf19bd36b7ca8b4093c7997687106fdc844bd" type="script" releaseDate="20260615">
+      <package fileName="SetiAstroScripts06.23.2026.zip" sha1="acc6171c51d3a7526d4d9255eb28c529777e5c7a" type="script" releaseDate="20260623">
          <title>
-        FAME v1.6
+        BlindSolver2000
       </title>
          <description>
             <p>
-New Repository link, https://updates.setiastro.com  FAME memory leak bug fix
+Fix on the certified signature as some users report it was saying invalide
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-06-15T16:29:15.762Z" encoding="Base64">LDSqrqR+AEPktgjE4p791Z3vKAK6decu4uvWO0jWIxEJd2Rr3WZYKkgmCIO1iJ5d5GmpZIOXmF0VKLfdQDHiBw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-06-23T16:11:37.564Z" encoding="Base64">QEfOVZLtT2UcL4scuzNDS9GAvwGNQoE5hqOC0rLFodsjLNGi6WzRyc74b1HdkB5E/ca5OZg7J/oh+ujcs6nbDw==</Signature>
