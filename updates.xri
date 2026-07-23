@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts06.23.2026.zip" sha1="acc6171c51d3a7526d4d9255eb28c529777e5c7a" type="script" releaseDate="20260623">
+      <package fileName="SetiAstroScripts07.23.2026.zip" sha1="09c0dc36001cf7641b9c4e39155a20df51060e11" type="script" releaseDate="20260723">
          <title>
-        BlindSolver2000
+        Perfect Palette Picker V1.3
       </title>
          <description>
             <p>
-Fix on the certified signature as some users report it was saying invalide
+Updated to include new &quot;standard&quot; palettes and a brand new Dynamic Inverse palette that for bicolor images provides reds, golds, and yellows and for tricolor images offers a cross channel realistic style blend.  Information on the math can be found on my wiki: https://github.com/setiastro/setiastrosuitepro/wiki/Tools:-Perfect-Palette-Picker
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-06-23T16:11:37.564Z" encoding="Base64">QEfOVZLtT2UcL4scuzNDS9GAvwGNQoE5hqOC0rLFodsjLNGi6WzRyc74b1HdkB5E/ca5OZg7J/oh+ujcs6nbDw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-07-23T12:37:59.301Z" encoding="Base64">b8O4e/jAO+/R035hzGDcnIc7Ux3wycmPWd62p5ed8UAdTbbWn5ZSMe0O5SIk+WpK8tLB0iN/GM3dRJkirpuYCw==</Signature>
