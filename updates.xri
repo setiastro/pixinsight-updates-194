@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts07.23.2026.zip" sha1="09c0dc36001cf7641b9c4e39155a20df51060e11" type="script" releaseDate="20260723">
+      <package fileName="SetiAstroScripts07.31.2026.zip" sha1="e6691de3983b0fbeb79eb1dc597388134d100bb2" type="script" releaseDate="20260731">
          <title>
-        Perfect Palette Picker V1.3
+        NBExtract
       </title>
          <description>
             <p>
-Updated to include new &quot;standard&quot; palettes and a brand new Dynamic Inverse palette that for bicolor images provides reds, golds, and yellows and for tricolor images offers a cross channel realistic style blend.  Information on the math can be found on my wiki: https://github.com/setiastro/setiastrosuitepro/wiki/Tools:-Perfect-Palette-Picker
+From the creator of the Lighthouse Suite, Neven Krcmarek, has ported my NBExtract from SASpro into PixInsight.  I am co-hosting the script, but he deserves all credit for the port and PI implementation.  
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-07-23T12:37:59.301Z" encoding="Base64">b8O4e/jAO+/R035hzGDcnIc7Ux3wycmPWd62p5ed8UAdTbbWn5ZSMe0O5SIk+WpK8tLB0iN/GM3dRJkirpuYCw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-07-31T21:51:46.745Z" encoding="Base64">QKkiZOOpmha36/7JjCqO+rKMzub/F/VzItl1Ao5wumxXLv53vgtEYEVZglz3vhOlyTWrUmpqRACBsiz57nv9Cw==</Signature>
