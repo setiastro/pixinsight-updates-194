@@ -6,16 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts07.31.2026.zip" sha1="e6691de3983b0fbeb79eb1dc597388134d100bb2" type="script" releaseDate="20260731">
+      <package fileName="SetiAstroScripts08.01.2026.zip" sha1="d15a337d26ae5b8f877997b34b54ba8314b52661" type="script" releaseDate="20260801">
          <title>
-        NBExtract
+        NBExtract - Ported to V8
       </title>
+         <remove>
+        src/scripts/BlindSolver2000.xsgn
+      </remove>
          <description>
             <p>
-From the creator of the Lighthouse Suite, Neven Krcmarek, has ported my NBExtract from SASpro into PixInsight.  I am co-hosting the script, but he deserves all credit for the port and PI implementation.  
+From the creator of the Lighthouse Suite, Neven Krcmarek, has ported my NBExtract from SASpro into PixInsight.  I am co-hosting the script, but he deserves all credit for the port and PI implementation.  Ported to V8
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-07-31T21:51:46.745Z" encoding="Base64">QKkiZOOpmha36/7JjCqO+rKMzub/F/VzItl1Ao5wumxXLv53vgtEYEVZglz3vhOlyTWrUmpqRACBsiz57nv9Cw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-08-01T13:20:52.343Z" encoding="Base64">aInkn8KhIzY+Xy+9ALXp4UvDo1noxImP6p+hHJF04F6AyR6q4HQbXbEyGI1e8fepyzNxMcSM+KvdGQICrJ4VCw==</Signature>
