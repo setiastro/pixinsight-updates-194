@@ -6,19 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SetiAstroScripts08.04.2026.zip" sha1="f895b80749b851946b26dbc4c49781f26d56d288" type="script" releaseDate="20260804">
+      <package fileName="SetiAstroScripts08.30.2026.zip" sha1="6cff970bd2d84f1981ca5b99e375995a59a130aa" type="script" releaseDate="20260830">
          <title>
-        AstroMark Signature Adder
+        Star Spike Tool
       </title>
          <remove>
         src/scripts/BlindSolver2000.xsgn
       </remove>
          <description>
             <p>
-Bug Fix in AstroMark Signature Adder in V194 of PixInsight.
+Port of the Star Spike Tool for V8 PJSR Engine
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-08-04T12:14:52.128Z" encoding="Base64">jba+iI9+Hk/ynbM6Vs7OttrfGX6ACkpNh8zjXmoNP5GkwHN/L0zarZtZ1c91R9HaG8k8oI7TnKpb0pRxB/AhDg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-08-30T16:51:26.853Z" encoding="Base64">Q2SGtEhF7dvqJUWqT0vNBDF7CdvMhHcnlkj4JIIDQN86+yS0Z/Q4xbGzamR3/mTj7TIyQ78AH5USsvhMOvDJAg==</Signature>
