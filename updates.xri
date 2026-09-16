@@ -6,19 +6,19 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.4">
-      <package fileName="SetiAstroScripts08.30.2026.zip" sha1="6cff970bd2d84f1981ca5b99e375995a59a130aa" type="script" releaseDate="20260830">
+      <package fileName="SetiAstroScripts09.16.2026.zip" sha1="067ca602bbda512ef93fbdcb8aa14d28adee1406" type="script" releaseDate="20260830">
          <title>
-        Star Spike Tool
+        Blemish Blaster Pro
       </title>
          <remove>
         src/scripts/BlindSolver2000.xsgn
       </remove>
          <description>
             <p>
-Port of the Star Spike Tool for V8 PJSR Engine
+Blemish Blaster update from contributor Lamar McLouth.  Greatly improving the speed of the blasting and modernizing the whole UI.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-09-16T12:15:44.387Z" encoding="Base64">j1nOsgfYct2kkhbmhpDrdVEkeSaaY1qSLZD0oVo2xwFde5L36Dz0bh1N8vW3nvTmVCtrGWpWVb/5oQKUjHJoAA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-09-16T13:48:21.477Z" encoding="Base64">S5RPV91CoZrQ/j+8IhwJo41+UfQFD51tkB5xmuIjLiF8dKJkegrIuiizh8RT28XEd8ZvTU/vUebGhhgwNEq8BA==</Signature>
