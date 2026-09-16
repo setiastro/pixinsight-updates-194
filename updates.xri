@@ -5,7 +5,7 @@
       This is the repository for PixInsight scripts by setiastro.com.
     </p>
    </description>
-   <platform os="all" arch="noarch" version="1.9.4:1.9.9">
+   <platform os="all" arch="noarch" version="1.9.4:1.9.4">
       <package fileName="SetiAstroScripts08.30.2026.zip" sha1="6cff970bd2d84f1981ca5b99e375995a59a130aa" type="script" releaseDate="20260830">
          <title>
         Star Spike Tool
@@ -21,4 +21,4 @@ Port of the Star Spike Tool for V8 PJSR Engine
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-08-30T16:51:26.853Z" encoding="Base64">Q2SGtEhF7dvqJUWqT0vNBDF7CdvMhHcnlkj4JIIDQN86+yS0Z/Q4xbGzamR3/mTj7TIyQ78AH5USsvhMOvDJAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-09-16T12:15:44.387Z" encoding="Base64">j1nOsgfYct2kkhbmhpDrdVEkeSaaY1qSLZD0oVo2xwFde5L36Dz0bh1N8vW3nvTmVCtrGWpWVb/5oQKUjHJoAA==</Signature>
