@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.4">
-      <package fileName="SetiAstroScripts09.16.2026.zip" sha1="067ca602bbda512ef93fbdcb8aa14d28adee1406" type="script" releaseDate="20260830">
+      <package fileName="SetiAstroScripts09.16.2026-1.zip" sha1="07e593822da86f38973fb5786a5fe7acc3e3b5a1" type="script" releaseDate="20260916">
          <title>
         Blemish Blaster Pro
       </title>
@@ -21,4 +21,4 @@ Blemish Blaster update from contributor Lamar McLouth.  Greatly improving the sp
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-09-16T13:48:21.477Z" encoding="Base64">S5RPV91CoZrQ/j+8IhwJo41+UfQFD51tkB5xmuIjLiF8dKJkegrIuiizh8RT28XEd8ZvTU/vUebGhhgwNEq8BA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-09-16T14:03:12.960Z" encoding="Base64">h40ygl+v8DFXOaZaU/1JOFMB2hysYscY4Bb/1m0HsMuVfEgbBv42l95BfApd+rEIbQQJpxws4jzcRW7HlAdACw==</Signature>
