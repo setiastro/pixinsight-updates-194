@@ -5,7 +5,7 @@
       This is the repository for PixInsight scripts by setiastro.com.
     </p>
    </description>
-   <platform os="all" arch="noarch" version="1.9.4:1.9.4">
+   <platform os="all" arch="noarch" version="1.9.4:1.9.5">
       <package fileName="SetiAstroScripts09.18.2026.zip" sha1="35470a5860649d828fc592b8e65459ee3dbffc67" type="script" releaseDate="20260918">
          <title>
         Blemish Blaster Pro
@@ -21,4 +21,4 @@ Blemish Blaster update from contributor Lamar McLouth.  Greatly improving the sp
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-09-18T15:48:51.133Z" encoding="Base64">lP4mnhHZxsfRVJmqur7iP0Wmdf0hueQu6RL/zcuB1TOFwUWWfySJwgTlacuv9D31LBQc/ZDwNpJfGbWCqHOODA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-09-18T20:17:23.022Z" encoding="Base64">ockbSpOBfClSKSwUV63Yu4mtRh8ko+pl8TnvN91vu1HZHLJKENKS+4zQA8fSg106UthL83XFvaE5Pcnv6pAKCg==</Signature>
