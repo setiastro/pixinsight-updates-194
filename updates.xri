@@ -20,5 +20,17 @@ Bug Fix where some images that were linear werent detected as linear.  Blemish B
          </description>
       </package>
    </platform>
+   <platform os="all" arch="noarch" version="1.8.8:1.9.3">
+      <package fileName="SetiAstroScripts07.25.2026_193.zip" sha1="2e658852b2e0f1ad7eaf0ca7da14853bfdbecb8a" type="script" releaseDate="20260725">
+         <title>
+        AutoDBE
+      </title>
+         <description>
+            <p>
+New repository link.  Be sure to update to https://updates.setiastro.com/   .AutoDBE for PI 1.9.3 had an issue.  Reuploading the correct AutoDBE for PI 1.9.3.
+		</p>
+         </description>
+      </package>
+   </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-09-19T20:10:48.483Z" encoding="Base64">t3UnbIeDFSz+5lM7PENaxpkFOoM+vw1uKi8TUcDD60LudxNx5X9n3S7zxfSjr5lO7X7nNyXOqly/0x2Qrl+dDw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-09-24T18:01:51.917Z" encoding="Base64">zihTjxXZZhGaboghdUgz2+JWwigo9fEWfqrCuTwQAe9bUFVjWy1d/nA84kP8OE31vLkyGLJfINGUGOAb74NRDw==</Signature>
