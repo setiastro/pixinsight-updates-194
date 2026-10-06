@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.5">
-      <package fileName="SetiAstroScripts09.19.2026.zip" sha1="ab4e9e15f6a3bd8118d7033dbef4b4ed2700261b" type="script" releaseDate="20260919">
+      <package fileName="SetiAstroScripts10.06.2026.zip" sha1="b138d09284e1a719f7e16149fda8125ff227ed37" type="script" releaseDate="20261006">
          <title>
-        Blemish Blaster Pro
+        AstroMark Signature Adder
       </title>
          <remove>
         src/scripts/BlindSolver2000.xsgn
       </remove>
          <description>
             <p>
-Bug Fix where some images that were linear werent detected as linear.  Blemish Blaster update from contributor Lamar McLouth.  Greatly improving the speed of the blasting and modernizing the whole UI.
+Bug Fix in astromark signature adder that completely broke it for 1.9.5   this is now fixed and you should be able to use fully again.
 		</p>
          </description>
       </package>
@@ -33,4 +33,4 @@ New repository link.  Be sure to update to https://updates.setiastro.com/   .Aut
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-09-24T18:01:51.917Z" encoding="Base64">zihTjxXZZhGaboghdUgz2+JWwigo9fEWfqrCuTwQAe9bUFVjWy1d/nA84kP8OE31vLkyGLJfINGUGOAb74NRDw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-10-06T14:15:13.488Z" encoding="Base64">ICPiAujhV3M+S1Tiwgi1QNBzyryKlhCPTouTcNPo+2Haw0PUpmbLhbzA3tszqnHzHkWrgSPebggPW27jSrPmDg==</Signature>
